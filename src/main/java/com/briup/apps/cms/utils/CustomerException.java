@@ -2,6 +2,8 @@ package com.briup.apps.cms.utils;
 
 import java.util.Arrays;
 
+
+//统一异常处理
 public class CustomerException extends RuntimeException {
 
 	public CustomerException() {

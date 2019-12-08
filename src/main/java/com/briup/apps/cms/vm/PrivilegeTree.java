@@ -1,8 +1,14 @@
 package com.briup.apps.cms.vm;
 
+
 import com.briup.apps.cms.bean.BasePrivilege;
 
+
 import java.util.List;
+
+
+
+//²éÑ¯È¨ÏÞÊ÷
 
 public class PrivilegeTree extends BasePrivilege {
 	private List<BasePrivilege> children;

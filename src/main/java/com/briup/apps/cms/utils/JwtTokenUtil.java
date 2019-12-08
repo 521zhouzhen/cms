@@ -1,29 +1,48 @@
-package com.briup.apps.cms.utils;
+﻿package com.briup.apps.cms.utils;
+
+
 
 /**
- * @program: cms_jd1911
- * @description: JWT工具类
- * @author: charles
- * @create: 2019-11-18 20:44
+ * 
+
+@program: cms_jd1911
+ *
+
+ @description: JWT工具类
+ * 
+
  **/
+
+
+
+//token 验证
+
 import io.jsonwebtoken.*;
+
+
 import org.slf4j.Logger;
+
+
 import org.slf4j.LoggerFactory;
 
 import javax.crypto.spec.SecretKeySpec;
+
+
 import javax.xml.bind.DatatypeConverter;
+
+
 import java.security.Key;
+
+
 import java.util.Date;
 
 
-/**
- * ========================
- * Created with IntelliJ IDEA.
- * User：pyy
- * Date：2019/7/17 17:24
- * Version: v1.0
- * ========================
- */
+
+
+
+
+
+
 public class JwtTokenUtil {
 
     private static Logger log = LoggerFactory.getLogger(JwtTokenUtil.class);

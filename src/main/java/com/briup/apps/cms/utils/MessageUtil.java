@@ -1,13 +1,25 @@
-package com.briup.apps.cms.utils;
+﻿package com.briup.apps.cms.utils;
 
 import java.util.Date;
 
+
+//统一返回格式
+
+
+
 public class MessageUtil {
-    /**
+   
+
+
+ /**
      * 返回失败消息，一般用于增删改操作的结果返回
      * */
-    public static Message error(String msg){
-        Message message = new Message();
+   
+
+ public static Message error(String msg){
+      
+
+  Message message = new Message();
         message.setStatus(500);
         message.setMessage(msg);
         message.setTimestamp(new Date().getTime());

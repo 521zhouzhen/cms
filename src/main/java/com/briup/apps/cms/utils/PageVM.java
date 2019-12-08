@@ -1,15 +1,12 @@
-
+﻿
 package com.briup.apps.cms.utils;
-/**
- * ClassName:CustomerPageVM <br/>
- * Function: TODO ADD FUNCTION. <br/>
- * Reason:	 TODO ADD REASON. <br/>
- * Date:     2018年9月8日 上午9:56:30 <br/>
- * @author   lichunyu
- * @version
- * @since    JDK 1.6
- * @see
- */
+
+
+
+//分页处理
+
+
+
 
 import java.util.List;
 

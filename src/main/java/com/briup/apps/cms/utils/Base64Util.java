@@ -1,11 +1,9 @@
-package com.briup.apps.cms.utils;
+﻿package com.briup.apps.cms.utils;
 
-/**
- * @program: cms_jd1911
- * @description:
- * @author: charles
- * @create: 2019-11-18 20:49
- **/
+
+//密码加密 与解密
+
+
 import org.springframework.util.StringUtils;
 import sun.misc.BASE64Decoder;
 import sun.misc.BASE64Encoder;

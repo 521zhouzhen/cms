@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Project Name:poll3
  * File Name:ExcelUtils.java
  * Package Name:com.briup.apps.poll.util
@@ -24,17 +24,12 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import javax.servlet.http.HttpServletResponse;
 
-/**
- * ClassName:ExcelUtils <br/>
- * Function: TODO ADD FUNCTION. <br/>
- * Reason: TODO ADD REASON. <br/>
- * Date: 2018年7月3日 上午8:57:12 <br/>
- * 
- * @author lichunyu
- * @version
- * @since JDK 1.6
- * @see
- */
+
+
+
+
+
+
 @SuppressWarnings("deprecation")
 public class ExcelUtils {
 	
